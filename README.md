@@ -1,6 +1,8 @@
+# Deployment Link
+https://parmbir21.github.io/
+
 # Responsive Portfolio
-This is the readme file for the responsive portfolio for homework 2.
-Comments are made in the HTML. CSS is not included as it was unnecessary.
+There have been changes made to the website since it's initial conception which is why the photos might look different from the actual deployed version.
 
 ![Navigation bar](Assets/Navbar.PNG)
 ![Introducing myself](Assets/aboutme.PNG)
